@@ -1,0 +1,52 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #005416;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #05A47B;
+	color:black;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+	
+    display: inline;
+    margin-right: 20px;
+}
+
+div {
+	margin:auto;
+    padding: 20px;
+	
+	width:40%;
+}
+
+.job {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+  
+	background-color: #CECFCE;
+}
+
+h2 {
+    color: #black;
+    font-size: 24px;
+}
+
+strong {
+    font-weight: bold;
+}

@@ -1,0 +1,35 @@
+body {
+   font-family: "Arial", sans-serif;
+    background-color: #ffec40;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #05A47B;
+	color:black;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-size: 36px;
+	color:black;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+div{
+	border:2px solid black;
+}
+/* Puedes agregar más estilos aquí */
